@@ -15,7 +15,7 @@
 ---
 
 # Software Company 
-1. Nepal Creative Tech
+1. Butwal Technologies
 2. Innovative Techo Nepal
 3. Infoxit
 4. JustRing Nepal
@@ -26,6 +26,7 @@
 9. Butwal Web
 10. Eagle Eye
 11. Karma Softudio
+12. Nepal Creative Tech
 ---
 
 # IT organization
